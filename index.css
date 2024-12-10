@@ -4,6 +4,7 @@ body {
     font-family: Arial, sans-serif;
     color: #333;
     line-height: 1.6;
+    width: fit-content;
 }
 
 /* Header Styles */
@@ -255,7 +256,7 @@ body {
         border: 1px solid #ddd;
         border-radius: 10px;
         padding: 15px;
-        width: 470px;
+        width: 300px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     }
     
